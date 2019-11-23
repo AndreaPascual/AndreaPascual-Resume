@@ -1,6 +1,10 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to my Resume Website!
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+My name is Andrea Pascual, and I am a current UCR student! 
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
+CS008 has been teaching us the basics in website building, and in coding, so I'm excited to show you the finalized product!
+
+This final website has been the accumulation of a full quarter of work, so I hope you enjoy!
+
+
